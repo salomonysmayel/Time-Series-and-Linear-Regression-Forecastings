@@ -8,6 +8,7 @@ In this assignment, you will test the many time-series tools that you have learn
 This homework dives into:
 
 Time Series Forecasting
+
 Linear Regression Modeling
 
 
