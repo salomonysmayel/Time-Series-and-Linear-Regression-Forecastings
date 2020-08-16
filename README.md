@@ -27,10 +27,27 @@ In this section a Scikit-Learn linear regression model was built to predict Yen 
 Following these steps:
 
 Data Preparation (Creating Returns and Lagged Returns and splitting the data into training and testing data)
+
+
+![supply_chain](/images/data.png)
+
+
+![supply_chain](/images/lagged_returns.png)
+
 Fitting a Linear Regression Model.
+
+![supply_chain](/images/lmodel.png)
+
 Making predictions using the testing data.
+
+![supply_chain](/images/pred.png)
+
+![supply_chain](/images/pred_plots.png)
+
 Out-of-sample performance.
 In-sample performance.
+
+![supply_chain](/images/in_out.png)
 
 The results of the linear regression analysis and modeling were used to answer the following question:
 
